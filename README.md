@@ -57,9 +57,7 @@ The calculator includes:
 ScientificCalculator/
 │
 ├── scientic_calc.py 
-├── assets/ 
 ├── README.md 
-└── requirements.txt 
 
 🤝 Contributing
 Pull requests are welcome!
